@@ -1,11 +1,11 @@
 module.exports = {
-    title: 'AAR - DOCUMENTACIÓN',
+    title: 'DEPORTES RÍO CUARTO - DOCUMENTACIÓN',
     description: 'Documentación',
     themeConfig: {
       nav: [
         { text: 'Inicio', link: '/' },
-        { text: 'Demo', link: 'http://167.99.51.107:8080/login' },
-        { text: 'Github', link: 'https://github.com/ggiuliodori/afiliadosAltoRiesgo-doc' },
+        { text: 'Demo', link: 'http://134.209.41.243:8083' },
+        { text: 'Github', link: 'https://github.com/ggiuliodori/deportesRioCuarto-doc.git' },
       ],
       sidebar:[
         ['/', 'Inicio'],
@@ -38,27 +38,13 @@ module.exports = {
             ['/docs/modulos/est00014.md', 'EST00014']
            ]
         },
-        {
-          title: 'Incompatibilidades',
-          children: [ 
-            ['/docs/incompatibilidades/reu0001.md', 'REU0001'],
-            ['/docs/incompatibilidades/reu0002.md', 'REU0002'],
-            ['/docs/incompatibilidades/reu0003.md', 'REU0003'],
-            ['/docs/incompatibilidades/reu0004.md', 'REU0004']
-           ]
-        },
+        
         {
           title: 'Configuración',
           children: [ 
             ['/docs/config/hexing.md', 'Hexing'],
             ['/docs/config/itron.md', 'Itron'],
             ['/docs/config/circutor.md', 'Circutor']
-           ]
-        },
-        {
-          title: 'Scheduler',
-          children: [ 
-            ['/docs/schedul/ntm.md', 'NTM']
            ]
         },
         {
