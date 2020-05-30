@@ -22,20 +22,22 @@ module.exports = {
         {
           title: 'Módulos',
           children: [ 
-            ['/docs/modulos/est0001.md', 'EST0001'],
-            ['/docs/modulos/est0002.md', 'EST0002'],
-            ['/docs/modulos/est0003.md', 'EST0003'],
-            ['/docs/modulos/est0004.md', 'EST0004'],
-            ['/docs/modulos/est0005.md', 'EST0005'],
-            ['/docs/modulos/est0006.md', 'EST0006'],
-            ['/docs/modulos/est0007.md', 'EST0007'],
-            ['/docs/modulos/est0008.md', 'EST0008'],
-            ['/docs/modulos/est0009.md', 'EST0009'],
-            ['/docs/modulos/est00010.md', 'EST00010'],
-            ['/docs/modulos/est00011.md', 'EST00011'],
-            ['/docs/modulos/est00012.md', 'EST00012'],
-            ['/docs/modulos/est00013.md', 'EST00013'],
-            ['/docs/modulos/est00014.md', 'EST00014']
+            ['/docs/modulos/est0001.md', 'Dasboard'],
+            ['/docs/modulos/est0002.md', 'Socios'],
+            ['/docs/modulos/est0003.md', 'Carnet'],
+            ['/docs/modulos/est0004.md', 'Validar Socio'],
+            ['/docs/modulos/est0005.md', 'Cajas'],
+            ['/docs/modulos/est0006.md', 'Pagos'],
+            ['/docs/modulos/est0007.md', 'Disciplinas'],
+            ['/docs/modulos/est0008.md', 'Examen Médico'],
+            ['/docs/modulos/est0009.md', 'Auditoría'],
+            ['/docs/modulos/est00010.md', 'Users'],
+            ['/docs/modulos/est00011.md', 'Areas'],
+            ['/docs/modulos/est00012.md', 'Lector'],
+            ['/docs/modulos/est00013.md', 'Predio'],
+            ['/docs/modulos/est00014.md', 'Configuraciones'],
+            ['/docs/modulos/est00015.md', 'Notificaciones'],
+            ['/docs/modulos/est00016.md', 'Cambio de Predio']
            ]
         },
         
